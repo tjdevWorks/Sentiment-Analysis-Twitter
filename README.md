@@ -12,7 +12,7 @@ Python code for searching a query and finding all tweets with respect to it and 
 
 ##Run
 
-After installing the dependencies download the sentiment_analysis.py and run it in the terminal
+After installing the dependencies download the sentiment_analysis.py paste the api key, consumer key, and access token along with their secrets and run it in the terminal
 
 ##Results
 
